@@ -1,3 +1,3 @@
 # opti412
-classical optimization algorithms by MATLAB 2017b
-知行出品，必属精品
+#classical optimization algorithms by MATLAB 2017b#知行出品，必属精品
+<div id="spnEditorSign" style="position:relative;zoom:1"><ul><li>1无约束优化\求优化区间</li><li>1无约束优化\直接搜索法</li><li>1无约束优化\系统函数fminunc</li><li>2约束优化\系统函数fmincon</li><li>3最小二乘\线性最小二乘</li><li>3最小二乘\非线性最小二乘</li><li>3最小二乘\系统函数lsqnonlin&amp;lsqcurvefit</li><li>4线性规划\修正单纯形法LP</li><li>4线性规划\单纯形法</li><li>4线性规划\单纯形法LP</li><li>4线性规划\大M法LP</li><li>5动态规划\旅行商TSP问题</li><li>5动态规划\逆序动态规划算法</li><li>6整数规划\分支定界法</li><li>6整数规划\割平面法</li><li>6整数规划\匈牙利算法</li><li>6整数规划\系统函数intlinprog</li><li>6整数规划\贪心算法</li><li>7二次规划\光滑牛顿法解任意二次规划</li><li>7二次规划\拉格朗日乘子法解等式约束二次规划</li><li>7二次规划\有效集方法解二次规划</li><li>7二次规划\系统函数quadprog</li><li>8多目标规划\系统函数fgoalattain</li><li>9遗传算法\基因算法</li><li>10神经网络\神经网络</li><li>10神经网络\遗传-神经网络</li></ul><div style="clear:both"></div></div>
